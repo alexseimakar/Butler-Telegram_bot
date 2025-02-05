@@ -1,6 +1,6 @@
 
 
-# Butler elegram Bot
+# Machine_Spirit (or Butler, but name was taken) Telegram Bot
 A fun and handy Telegram bot designed to enhance your productivity and assist you in managing your time effectively.
 
 ## Current Features:
@@ -10,4 +10,4 @@ Data Export: Easily export your to-do lists and calorie tracking data for furthe
 
 ## Future Enhancements:
 Natural Language Processing (NLP): Implement NLP to enable more conversational interactions, allowing users to add or modify tasks using natural language commands.
-Whatever I'll think of smt new
+Whatever I come up with
