@@ -1,4 +1,5 @@
 
+# MVP stage
 
 # Machine_Spirit (or Butler, but name was taken) Telegram Bot
 A fun and handy Telegram bot designed to enhance your productivity and assist you in managing your time effectively.
